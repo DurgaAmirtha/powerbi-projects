@@ -1,3 +1,24 @@
-# powerbi-projects
-This repository showcases screenshot previews of Power BI dashboards created as part of my learning and portfolio development. The visuals cover insights on the tech job market and financial indicators such as stock performance, GDP growth, and trading volumes. These dashboards were built using cleaned and organized data in Microsoft Excel and designed to communicate trends clearly using Power BI.
+Power BI Dashboard
 
+This repository includes two Power BI dashboard created to explore real-world datasets.
+
+Screenshot 1 – Tech Job Market
+
+![Screenshot 1](./screenshot1.png)  
+Dashboard showing job types, salaries, work settings, and locations in the tech industry.
+
+
+
+Screenshot 2 – Financial Overview
+
+![Screenshot 2](./screenshot2.png)  
+Dashboard visualizing financial trends like stock prices, GDP growth, and investor confidence.
+
+
+Tools Used
+- Microsoft Excel – for cleaning and preparing data  
+- Power BI – for creating dashboards and visuals
+
+
+Note:
+These dashboards were created for learning and portfolio purposes using sample data.
