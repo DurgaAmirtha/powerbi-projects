@@ -2,16 +2,11 @@ Power BI Dashboard
 
 This repository includes two Power BI dashboard created to explore real-world datasets.
 
-Screenshot 1 – Tech Job Market
-
-Screenshot (6).png
+Image 1 – Tech Job Market
 Dashboard showing job types, salaries, work settings, and locations in the tech industry.
 
 
-
-Screenshot 2 – Financial Overview
-
-![Screenshot 2](./Screenshot(11).png)  
+Image 2 – Financial Overview
 Dashboard visualizing financial trends like stock prices, GDP growth, and investor confidence.
 
 
