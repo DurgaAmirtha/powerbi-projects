@@ -4,7 +4,7 @@ This repository includes two Power BI dashboard created to explore real-world da
 
 Screenshot 1 – Tech Job Market
 
-![Screenshot 1](./Screenshot(6).png)  
+Screenshot (6).png
 Dashboard showing job types, salaries, work settings, and locations in the tech industry.
 
 
